@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/aditya_profile_pic.jpg" width="200" style="border-radius: 50%;" alt="Aditya Patil" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 <h3 align="center">💻 CDAC Student | Full Stack Developer in the Making</h3>
